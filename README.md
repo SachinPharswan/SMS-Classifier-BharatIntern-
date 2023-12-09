@@ -1,2 +1,2 @@
 # SMS-Classifier-BharatIntern-
-SMS-Classifier (Spam/Not Spam)
+# SMS-Classifier (Spam/Not Spam)
